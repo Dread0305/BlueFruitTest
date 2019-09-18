@@ -84,7 +84,7 @@ function onError(reason)  {
 
 
 function test(){
-	var url='https://placering.000webhostapp.com';	
+	var url='https://bluefruittest.000webhostapp.com/';	
 	openBrowser(url);
 }
 
